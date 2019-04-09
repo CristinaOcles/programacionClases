@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554853236 source:c:\users\alumno\desktop\crisprogclase6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1554853138 source:c:\users\alumno\desktop\crisprogclase6\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1554853332 c:\users\alumno\desktop\crisprogclase6\funciones.h
+
